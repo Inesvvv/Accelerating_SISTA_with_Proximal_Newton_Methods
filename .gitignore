@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+ml-env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
